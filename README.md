@@ -16,7 +16,7 @@ This project implements "ETFT: Equiangular Tight Frame Transformer for Imbalance
 ## Installation
 
 ```bash
-git clone $dir
+git clone https://github.com/seonggyuny/ETFT.git
 ```
 
 Install the necessary packages:
